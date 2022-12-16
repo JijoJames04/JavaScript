@@ -4,3 +4,9 @@ console.log('hello');
 
 // How to write a comment inline
 
+// Variables
+var b = 'smoothie';
+console.log(b);
+
+var someNumber = 45;
+console.log(someNumber);
