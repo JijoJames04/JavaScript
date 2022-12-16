@@ -7,6 +7,24 @@
 </head>
 <body>
     <h1 id="someText"></h1>
-    <script src="home.js"></script>
+
+    <script>
+        let students = `[
+            {
+                "name": "Jijo",
+                "age": 20,
+                "height": 170
+            },
+            {
+                "name": "James",
+                "age": 44,
+                "height": 174
+            }
+        ]`
+
+        console.log(JSON.parse(students)[0].age);
+    </script>
+
+
 </body>
 </html>
