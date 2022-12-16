@@ -1,2 +1,6 @@
 console.log('hello');
-alert('yooo');
+
+// alert('Hello, This is Jijo');
+
+// How to write a comment inline
+
